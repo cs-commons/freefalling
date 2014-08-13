@@ -1,0 +1,25 @@
+{
+  "title": "Freefalling",
+  "type": "assignment",
+  "authors": [
+    {
+      "name": "David Hovemeyer",
+      "email": "dhovemey@ycp.edu",
+      "website": "http://faculty.ycp.edu/~dhovemey"
+    }
+  ],
+  "license": {
+    "shortname": "CC BY-SA 4.0",
+    "fullname": "Creative Commons Attribution-ShareAlike 4.0",
+    "website": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "keywords": [
+    "cs1",
+    "input",
+    "output",
+    "variables",
+    "expressions"
+  ],
+  "repo_git_url": "git@github.com:cs-commons/freefalling",
+  "repo_pub_url": "https://github.com/cs-commons/freefalling"
+}
